@@ -46,21 +46,21 @@ The Movie App is a modern Android application that allows users to explore and p
   <tr>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/8389e0da-601d-45c6-aa99-af7378caf815" alt="Home Page" width="300"/>
-      <p><strong>Film 1</strong></p>
+      <p><strong>Home Page</strong></p>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/1865fc08-9712-484e-8249-a8b3ae04daa9" alt="Movie Detail Page" width="300"/>
-      <p><strong>Film 2</strong></p>
+      <p><strong>Movie Detail Page</strong></p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/15d157b0-13b4-403e-9dfd-53d0c35e9053" alt="Film 3" width="300"/>
+      <img src="https://github.com/user-attachments/assets/15d157b0-13b4-403e-9dfd-53d0c35e9053" alt="Cart Page" width="300"/>
       <p><strong>Cart Page</strong></p>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/5020e235-8aeb-469a-bb36-1d4d2ca1d092" alt="Profile Page" width="300"/>
-      <p><strong>Film 4</strong></p>
+      <p><strong>Profile Page</strong></p>
     </td>
   </tr>
 </table>
