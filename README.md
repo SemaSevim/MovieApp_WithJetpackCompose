@@ -2,6 +2,17 @@
 
 The Movie App is a modern Android application that allows users to explore and purchase a wide selection of movies. Designed with a user-friendly interface and robust features, you can view movie details, add items to your cart, and effortlessly complete your purchases.
 
+# Technologies Used
+
+- **Jetpack Compose:** A modern and efficient way to build declarative UIs.
+- **MVVM (Model-View-ViewModel):** Ensures scalability, maintainability, and testability of the application.
+- **Material Design:** Design standards for creating user-friendly and modern interfaces.
+- **Retrofit:** For handling API calls and parsing JSON responses.
+- **Glide:** Used for fast and efficient loading of movie posters.
+- **Hilt:** Simplifies dependency injection and improves app architecture.
+- **Navigation:** Used for seamless in-app page transitions.
+- **LiveData and Coroutines:** Efficiently manage data streams and asynchronous tasks.
+
 # Features
 
 ## Home Page
@@ -31,17 +42,29 @@ The Movie App is a modern Android application that allows users to explore and p
 
 # Screens 
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/8389e0da-601d-45c6-aa99-af7378caf815" alt="Home Page" width="300"/>
+      <p><strong>Film 1</strong></p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/1865fc08-9712-484e-8249-a8b3ae04daa9" alt="Movie Detail Page" width="300"/>
+      <p><strong>Film 2</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/15d157b0-13b4-403e-9dfd-53d0c35e9053" alt="Film 3" width="300"/>
+      <p><strong>Cart Page</strong></p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/5020e235-8aeb-469a-bb36-1d4d2ca1d092" alt="Profile Page" width="300"/>
+      <p><strong>Film 4</strong></p>
+    </td>
+  </tr>
+</table>
 
-# Technologies Used
-
-- **Jetpack Compose:** A modern and efficient way to build declarative UIs.
-- **MVVM (Model-View-ViewModel):** Ensures scalability, maintainability, and testability of the application.
-- **Material Design:** Design standards for creating user-friendly and modern interfaces.
-- **Retrofit:** For handling API calls and parsing JSON responses.
-- **Glide:** Used for fast and efficient loading of movie posters.
-- **Hilt:** Simplifies dependency injection and improves app architecture.
-- **Navigation:** Used for seamless in-app page transitions.
-- **LiveData and Coroutines:** Efficiently manage data streams and asynchronous tasks.
 
 # API Endpoints
 
@@ -50,7 +73,23 @@ The Movie App is a modern Android application that allows users to explore and p
 - **Add Movie to Cart:** http://kasimadalan.pe.hu/movies/insertMovie.php
 - **Delete Movie from Cart:** http://kasimadalan.pe.hu/movies/deleteMovie.php
 - **Fetch Movie Images:** http://kasimadalan.pe.hu/movies/images/dune.png
- 
+
+
+# Getting Started
+
+## Prerequisites
+
+- Android Studio must be installed on your computer.
+- Minimum SDK version: 24
+- Recommended version: Android 11 or higher.
+
+## Installation
+
+- Clone this repository:
+- git clone ,(https://github.com/SemaSevim/MovieApp_WithJetpackCompose.git)
+- Open the project in Android Studio.
+- Sync the project to download dependencies.
+- Run the project on an emulator or a physical device.
 
 
 
