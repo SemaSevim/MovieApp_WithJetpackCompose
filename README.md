@@ -86,7 +86,9 @@ The Movie App is a modern Android application that allows users to explore and p
 ## Installation
 
 - Clone this repository:
-- git clone ,(https://github.com/SemaSevim/MovieApp_WithJetpackCompose.git)
+`
+ git clone https://github.com/SemaSevim/MovieApp_WithJetpackCompose.git
+`
 - Open the project in Android Studio.
 - Sync the project to download dependencies.
 - Run the project on an emulator or a physical device.
